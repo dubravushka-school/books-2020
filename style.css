@@ -1,0 +1,18 @@
+body {
+	background-image: linear-gradient(rgba(255, 255, 255, 0.99), rgba(255, 255, 255, 0.8)), url('https://source.unsplash.com/1600x900/?books');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	font-size: 22px;
+
+}
+.subheader {color: black;}
+
+.top-bar, .column, .callout, .menu {background: none !important;}
+.callout {border: none; padding: 0; margin-bottom: 60px;}
+
+.button {border-radius: 5px;}
+.small {margin-bottom: 10px; margin-top: 10px; text-align: left; font-size: 16px; font-weight: bold;}
+
+h1 {color: black;}
